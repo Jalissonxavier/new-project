@@ -1,5 +1,7 @@
 # VI
 
+Bem-vindo ao repositório de Cheatsheets para dominar o editor VI! Aqui você encontrará uma coleção de dicas rápidas e úteis para utilizar o editor VI de maneira eficiente e produtiva.
+
 ## Funções de procura
 
 ```
@@ -123,3 +125,5 @@ CTRL+d => rola meia-tela (1/2) para baixo
 CTRL+u => rola meia-tela (1/2) atrás
 
 ```
+
+[Link Documentação](https://www.vim.org/docs.php)
